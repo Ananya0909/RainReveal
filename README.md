@@ -1,4 +1,4 @@
-# RainReveal-Rainfall-Prediction-for-Meteorological-Department-
+# RainReveal: Rainfall Prediction for Meteorological Department
 The problem being addressed by the IoT based rain fall prediction system is the 
 difficulty in accurately predicting and monitoring rainfall in different regions. 
 Traditional methods of measuring rainfall such as rain gauges and weather 
